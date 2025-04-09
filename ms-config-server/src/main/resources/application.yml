@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/elvisjsAtlas1/DAD-C5-G2-Copy.git # ruta del repositorio git
+          uri: https://github.com/elvisjsAtlas1/DAD-C5-G2-ultimateGateway.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
